@@ -1,2 +1,2 @@
 # Gemini-File
-Pdf Query chat-bot using Gemini AI and Llma Index
+Pdf Query chat-bot using Gemini Pro model and Llama Index
