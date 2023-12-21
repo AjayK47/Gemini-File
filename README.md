@@ -3,6 +3,10 @@ Pdf Query chat-bot using Gemini Pro model and Llama Index
 
 Gemini-File is a Streamlit web application that allows users to upload PDF files, index their contents using the Gemini search engine from the Llama-Index library, and query the documents.
 
+## Preview
+
+https://github.com/AjayK47/Gemini-File/assets/88961945/33ac787d-ea55-4571-af70-f3a46c2c60d1
+
 ## Table of Contents
 
 - [Features](#features)
@@ -76,6 +80,10 @@ You can customize the embedding model used for document indexing. Edit the 'app.
 # Example using a different Hugging Face model
 embed_model_custom = HuggingFaceEmbedding(model_name="your/own-model-name")
 ```
+you can find best text embedding model for you with help of 
+[MTEB Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
+
+![image](https://github.com/AjayK47/Gemini-File/assets/88961945/7de6ee4a-2a36-4ce5-81b3-06f81151eb68)
 
 ## Contributing
 
@@ -90,6 +98,11 @@ Contributions are encouraged! Fork the repository, create a feature branch, make
 - **Scalability:** Optimize the application for large document collections and improve search speed.
 
 - **Dockerization:** Provide a Docker container for easy deployment.
+
+## Authors
+
+- [Ajay K](https://www.github.com/AjayK47)
+
 
 
 
