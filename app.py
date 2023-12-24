@@ -6,7 +6,7 @@ from llama_index.embeddings import HuggingFaceEmbedding
 from IPython.display import Markdown, display
 import os
 
-os.environ["GOOGLE_API_KEY"]="AIzaSyAqGPICr190pACB8wijn7FMlSK5s5NXOCs"
+os.environ["GOOGLE_API_KEY"]="Your_API_key"
 
 # Streamlit title and description
 st.title("Gemini-File with Llama-Index")
